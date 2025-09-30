@@ -168,6 +168,7 @@ section {
     padding: 0;
     box-shadow: 0 0 10px rgba(255, 51, 0, 0.1);
     transition: transform 0.3s ease-out, box-shadow 0.3s ease-out;
+    text-decoration: none;
 }
 
 .project-image {
